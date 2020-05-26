@@ -28,4 +28,4 @@ Science Trust.
 
 I have a PhD \(CS\) from Portland State University and a Masters \(CS, Data Intensive Systems\) from Oregon Health & Science
 University. My current research interests include software engineering, analytics, e-discovery, and forensics. I am particularly
-interested in and software and data architecture for cloud-based high-performance systems.
+interested in software and data architecture for cloud-based high-performance systems.
