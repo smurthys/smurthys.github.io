@@ -1,5 +1,5 @@
-I am a technologist, researcher, and educator. The [biography page](biography) has more detail. CV and references available
-on request. 
+I am a technologist, researcher, and educator. The [biography page](biography) has more detail. I am open to serious inquiries
+about professional engagement. CV and references available on request. 
 
 #### Affiliations
 
@@ -19,7 +19,7 @@ on request.
 - [GitHub](https://github.com/smurthys)
 
 
-#### Professional interests: **open to serious inquiries**
+#### Professional interests
 
 - Sofware engineering
 
@@ -29,7 +29,7 @@ on request.
 
 - Working in techincal teams with responsibility for architecture, design, code, and review
 
-- Techno-legal, techno-financial activities such as troubleshoorting, patent defense/dispute, and e-discovery
+- Techno-legal, techno-financial activities such as troubleshooting, patent defense/dispute, and e-discovery
 
 
 #### Personal interests
