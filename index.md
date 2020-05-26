@@ -10,7 +10,7 @@ on request.
 - Moderator, Special Interest Group on C++ ([SIGPP](https://sigcpp.github.io/))
 
 
-#### Elsewhere online
+#### Elsewhere online {#online}
 
 - [Twitter](https://twitter.com/smurthys)
 
