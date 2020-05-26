@@ -21,8 +21,6 @@ I am a technologist, researcher, and educator. The biography page has more detai
 
 - Data engineering
 
-- Programming: C++, Java, Typescript
-
 - Writing
 
 - Working in techincal teams with responsibility for architecture, design, code, and review
@@ -40,4 +38,3 @@ I am a technologist, researcher, and educator. The biography page has more detai
 - Reading
 
 - Mentoring and coaching: **accepting inquiries** (especially from undergraduate Computer Science students)
-
