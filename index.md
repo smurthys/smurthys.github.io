@@ -5,9 +5,9 @@ on request.
 
 - Principal Researcher, The Else Institute
 
-- Moderator, Special Interest Group on C++ ([SIGPP](https://sigcpp.github.io/))
-
 - Director, Data Science & Systems Lab ([DASSL](https://dassl.github.io/))
+
+- Moderator, Special Interest Group on C++ ([SIGPP](https://sigcpp.github.io/))
 
 
 #### Elsewhere online
@@ -15,6 +15,7 @@ on request.
 - [Twitter](https://twitter.com/smurthys)
 
 - [LinkedIn](https://www.linkedin.com/in/seanmurthy/)
+
 
 #### Professional interests: **open to serious inquiries**
 
@@ -27,6 +28,7 @@ on request.
 - Working in techincal teams with responsibility for architecture, design, code, and review
 
 - Techno-legal, techno-financial activities such as troubleshoorting, patent defense/dispute, and e-discovery
+
 
 #### Personal interests
 
