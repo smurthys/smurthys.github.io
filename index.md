@@ -10,11 +10,13 @@ on request.
 - Moderator, Special Interest Group on C++ ([SIGPP](https://sigcpp.github.io/))
 
 
-#### Elsewhere online {#online}
+#### Social
 
 - [Twitter](https://twitter.com/smurthys)
 
 - [LinkedIn](https://www.linkedin.com/in/seanmurthy/)
+
+- [GitHub](https://github.com/smurthys)
 
 
 #### Professional interests: **open to serious inquiries**
