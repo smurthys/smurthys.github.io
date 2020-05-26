@@ -1,4 +1,5 @@
-I am a technologist, researcher, and educator. The biography page has more detail. CV and references provided when necessary. 
+I am a technologist, researcher, and educator. The [biography page](biography) has more detail. CV and references available
+on request. 
 
 #### Affiliations
 
