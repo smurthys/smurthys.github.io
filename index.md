@@ -1,3 +1,5 @@
+[Home](/)&nbsp;&nbsp;&nbsp;&nbsp;[Biography](/biography)
+
 I am a technologist, researcher, and educator. The [biography page](biography) has more detail. I am open to serious inquiries
 about professional engagement. CV and references available on request. 
 
