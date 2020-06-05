@@ -1,4 +1,4 @@
-[Home](/)&nbsp;&nbsp;|&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;|&nbsp;&nbsp;[Publication](/pubs)
+[Home](/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;\|&nbsp;&nbsp;[Publication](/pubs)
 
 I am a technologist, researcher, and educator. I am open to serious inquiries about professional engagement.
 CV and references available on request. 
