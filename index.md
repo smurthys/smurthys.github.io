@@ -11,6 +11,10 @@ CV and references available on request.
 
 - Moderator, Special Interest Group on C++ ([SIGPP](https://sigcpp.github.io/))
 
+- Senior Member, Association for Computing Machinery ([ACM](https://www.acm.org/))
+
+- Member,  Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org/))
+
 
 #### Social
 
