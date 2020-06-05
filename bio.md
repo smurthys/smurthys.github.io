@@ -1,4 +1,4 @@
-[Home](/)&nbsp;&nbsp;&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;&nbsp;&nbsp;[Publication](/pubs)
+[Home](/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;\|&nbsp;&nbsp;[Publication](/pubs)
 
 I am a technologist, researcher, and educator. I am the founder of Data Science & Systems Lab \([DASSL](https://dassl.github.io),
 read _dazzle_\) and the Special Interest Group on C++ \([SIGCPP](https://sigcpp.github.io)\). I am also a Principal Researcher at
