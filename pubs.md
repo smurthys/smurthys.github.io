@@ -43,6 +43,9 @@
 
 #### Technical reports
 
+1. Murthy, S., Grabowski, J. 2018. Adding JDK 9 Commands to TextPad. Western Connecticut State University. Danbury, CT.
+1. Murthy, S., Figueroa, A., Rollo, S. 2017. A Brief Comparison of Two Enterprise-class RDBMSs. arXiv.org. https://arxiv.org/abs/1710.08023
+1. Murthy, S. 2017. Managing E-mail Addresses in a Relational Database. GitHub Gist. https://bit.ly/emailAddressGist.
 1. Murthy, S., Aithal, S. 2010. Placement of the Indian-Rupee Sign on QWERTY Keyboards: An Analysis of an Online Survey. Wipro Technologies. Bangalore, India.
 1. Bhattacharya S., Murthy, S. 2009. Migrating and Blending On-Premise and In-Cloud Data. Wipro Technologies. Bangalore, India.
 1. Murthy, S., Maier, D. 2008. A Framework for Relationship Pattern Languages. PSU CSE Technical Report# TR-0803. Portland State University. Portland, OR.
