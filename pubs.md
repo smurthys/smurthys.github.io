@@ -21,6 +21,10 @@
 
 #### Peer-reviewed publications
 
+1. Murthy, S., Figueroa, A., Rollo, S. 2018. Collaborating with Students to Produce High-Quality Production Software. 36th Annual Pacific Northwest Software Quality Conference. Portland, OR.
+1. Murthy, S., Figueroa, A., Rollo, S. 2018. Toward a large-scale open learning system for data management. 5th Annual Conference on Learning at Scale. London, UK.
+1. Murthy, S. 2018. Employing FOSS Tools to Improve Learning and Increase Opportunities. Northeast Regional OER Summit. #21. University of Massachusetts. Amherst, MA.
+1. Murthy, S. 2018. Shared Governance by Design. 4th Annual Conference on Student Governance and Shared Governance. Southern Connecticut State University. New Haven, CT.
 1. Rachakonda, A., Srinivasa, S., Murthy, S., Palleti, A.R., Krishna, R.Y. 2010. Comparing Web N-grams and Other Means of Identifying Named Entities in Corporate Blogs. Web N-gram Workshop at SIGIR 2010. Geneva, Switzerland. 43-46.
 1. Aithal, S., Murthy, S. 2009. Colander: Sifting Documents for Special Terms. 15th International Conference on Management of Data (COMAD 2009). Mysore, India. 243-246.
 1. Murthy, S., Maier, D. 2008. Declaratively Producing Data Mash-ups. 14th International Conference on Management of Data (COMAD 2008). Mumbai, India. 198-209.
