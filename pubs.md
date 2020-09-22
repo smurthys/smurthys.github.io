@@ -58,6 +58,10 @@
 1. Murthy, S. 2010. Incorporating the Indian-Rupee Sign into ICT Environments. Wipro Technologies. Bangalore, India.
 1. Murthy, S. 2007. SISRS: The Superimposed Scholarly Review System. Portland State Uni. Portland, OR.
 
+#### Blogs
+
+1. SIGCPP: Special Interest Group on C++. https://sigcpp.github.io
+
 #### Software (public domain)
 
 1. Radix (components for use with the .NET framework). 2012. The Else Institute. Portland, OR.
