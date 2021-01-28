@@ -1,8 +1,8 @@
 [Home](/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;\|&nbsp;&nbsp;[Publications](/pubs)
 
-I am a technologist, researcher, and educator. I am the founder of Data Science & Systems Lab \([DASSL](https://dassl.github.io),
-read _dazzle_\) and the Special Interest Group on C++ \([SIGCPP](https://sigcpp.github.io)\). I am also a Principal Researcher at
-the Else Institute.
+I am a teacher, researcher, and technologist. I am the founder of Data Science & Systems Lab \([DASSL](https://dassl.github.io),
+read _dazzle_\) and the Special Interest Group on C++ \([SIGCPP](https://sigcpp.github.io)\). I am also an Associate Professor
+of Instruction in the Department of Computer Science at the University of Dallas at Texas.
 
 Until recently, I was an Associate Professor in the Department of Computer Science at Western Connecticut State University, where
 in addition to teaching and researching Computer Science, I worked with students on several co-curricular projects in modern software
