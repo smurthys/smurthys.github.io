@@ -1,15 +1,15 @@
 [Home](/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;\|&nbsp;&nbsp;[Publications](/pubs)
 
-I am a technologist, researcher, and educator. I am open to serious inquiries about professional engagement.
+I am a teacher, researcher, and technologist. I am open to serious inquiries about professional engagement.
 CV and references available on request. 
 
 #### Affiliations
 
-- Principal Researcher, The Else Institute
+- Associate Professor of Instruction, Department of Computer Science, University of Texas at Dallas
 
 - Director, Data Science & Systems Lab ([DASSL](https://dassl.github.io/))
 
-- Moderator, Special Interest Group on C++ ([SIGPP](https://sigcpp.github.io/))
+- Moderator, Special Interest Group on C++ ([SIGCPP](https://sigcpp.github.io/))
 
 - Senior Member, Association for Computing Machinery ([ACM](https://www.acm.org/))
 
