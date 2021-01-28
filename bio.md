@@ -2,11 +2,11 @@
 
 I am a teacher, researcher, and technologist. I am the founder of Data Science & Systems Lab \([DASSL](https://dassl.github.io),
 read _dazzle_\) and the Special Interest Group on C++ \([SIGCPP](https://sigcpp.github.io)\). I am also an Associate Professor
-of Instruction in the Department of Computer Science at the University of Dallas at Texas.
+of Instruction in the Department of Computer Science at the University of Dallas at Texas (UTD).
 
-Until recently, I was an Associate Professor in the Department of Computer Science at Western Connecticut State University, where
-in addition to teaching and researching Computer Science, I worked with students on several co-curricular projects in modern software
-and data engineering.
+Prior to joining UTD, I was a tenured Associate Professor in the Department of Computer Science at Western Connecticut State
+University, where in addition to teaching and researching Computer Science, I worked with students on several co-curricular
+projects in modern software and data engineering.
 
 Before joining Western, I was the Executive Director of and a Principal Researcher at The Else Institute. Prior to that, I setup and
 directed the Applied Research group at Wipro Technologies. Prior to Wipro, I founded Sunlet Software Systems, in Portland, Oregon,
