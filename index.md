@@ -5,7 +5,7 @@ CV and references available on request.
 
 #### Affiliations
 
-- Associate Professor of Instruction, Department of Computer Science, University of Texas at Dallas
+- Associate Professor of Instruction, Department of Computer Science, University of Texas at Dallas ([UTD](https://cs.utdallas.edu/people/faculty/murthy-sean/))
 
 - Director, Data Science & Systems Lab ([DASSL](https://dassl.github.io/))
 
