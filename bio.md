@@ -1,8 +1,9 @@
 [Home](/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;\|&nbsp;&nbsp;[Publications](/pubs)
 
 I am a teacher, researcher, and technologist. I am the founder of Data Science & Systems Lab \([DASSL](https://dassl.github.io),
-read _dazzle_\) and the Special Interest Group on C++ \([SIGCPP](https://sigcpp.github.io)\). I am also an Associate Professor
-of Instruction in the Department of Computer Science at the University of Dallas at Texas (UTD).
+read _dazzle_\) and the Special Interest Group on C++ \([SIGCPP](https://sigcpp.github.io)\). I am also an [Associate Professor
+of Instruction](https://cs.utdallas.edu/people/faculty/murthy-sean/) in the Department of Computer Science at the University
+of Texas at Dallas (UTD).
 
 Prior to joining UTD, I was a tenured Associate Professor in the Department of Computer Science at Western Connecticut State
 University, where in addition to teaching and researching Computer Science, I worked with students on several co-curricular
