@@ -1,11 +1,11 @@
 [Home](/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;\|&nbsp;&nbsp;[Publications](/pubs)
 
-I am a teacher, researcher, and technologist. I am open to serious inquiries about professional engagement.
+I am a teacher, researcher, and technologist. I am open to inquiries about professional engagement.
 CV and references available on request. 
 
 #### Affiliations
 
-- Associate Professor of Instruction, Department of Computer Science, University of Texas at Dallas ([UTD](https://cs.utdallas.edu/people/faculty/murthy-sean/))
+- Associate Professor of Instruction, Dept. of Computer Science, University of Texas at Dallas ([UTD](https://cs.utdallas.edu/people/faculty/murthy-sean/))
 
 - Director, Data Science & Systems Lab ([DASSL](https://dassl.github.io/))
 
