@@ -13,7 +13,7 @@ CV and references available on request.
 
 - Senior Member, Association for Computing Machinery ([ACM](https://www.acm.org/))
 
-- Member,  Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org/))
+- Senior Member, Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org/))
 
 
 #### Social
