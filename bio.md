@@ -1,6 +1,6 @@
 [Home](/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;\|&nbsp;&nbsp;[Publications](/pubs)
 
-I am a teacher, researcher, and technologist. I am the founder of Data Science & Systems Lab \([DASSL](https://dassl.github.io),
+I am a teacher, researcher, and technologist. I am the founder of Data Systems & Solutions Lab \([DASSL](https://dassl.github.io),
 read _dazzle_\) and the Special Interest Group on C++ \([SIGCPP](https://sigcpp.github.io)\). I am also an [Associate Professor
 of Instruction](https://cs.utdallas.edu/people/faculty/murthy-sean/) in the Department of Computer Science at the University
 of Texas at Dallas (UTD).
@@ -12,7 +12,7 @@ projects in modern software and data engineering.
 Before joining Western, I was the Executive Director of and a Principal Researcher at The Else Institute. Prior to that, I setup and
 directed the Applied Research group at Wipro Technologies. Prior to Wipro, I founded Sunlet Software Systems, in Portland, Oregon,
 where I created tools for software-engineering activities such as defect management and configuration management. Prior to that, I
-designed international trade-finance sys­tems at Tiger Systems in New York for use at banks such as Citibank, Chase, and Barclays.
+designed international trade-finance systems at Tiger Systems in New York for use at banks such as Citibank, Chase, and Barclays.
 
 I have taught graduate and undergraduate courses in data management and software engineering at Oregon Health & Science University and
 at Oregon Institute of Technology. I have published, organized, and chaired international conferences and workshops, and have been an
