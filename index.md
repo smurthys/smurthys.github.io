@@ -7,7 +7,7 @@ CV and references available on request.
 
 - Associate Professor of Instruction, Dept. of Computer Science, University of Texas at Dallas ([UTD](https://cs.utdallas.edu/people/faculty/murthy-sean/))
 
-- Director, Data Science & Systems Lab ([DASSL](https://dassl.github.io/))
+- Director, Data Systems & Solutions Lab ([DASSL](https://dassl.github.io/))
 
 - Moderator, Special Interest Group on C++ ([SIGCPP](https://sigcpp.github.io/))
 
