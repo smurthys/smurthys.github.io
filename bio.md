@@ -4,7 +4,7 @@ I am a teacher, researcher, and technologist. I am the founder of Data Systems &
 read _dazzle_\) and the Special Interest Group on C++ \([SIGCPP](https://sigcpp.github.io)\). I am also a Principal Researcher at
 The Else Institute (returned to a former position).
 
-Prior to my return to The Else Institute , I was a tenured Associate Professor in the Department of Computer Science at Western 
+Prior to my return to The Else Institute, I was a tenured Associate Professor in the Department of Computer Science at Western 
 Connecticut State University, where in addition to teaching and researching Computer Science, I worked with students on several
 co-curricular projects in modern software and data engineering.
 
