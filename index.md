@@ -38,9 +38,9 @@ CV and references available on request.
 
 #### Personal interests
 
-- Road trips
+- Walking, hiking, cycling
 
-- Hiking
+- Road trips
 
 - Movies
 
