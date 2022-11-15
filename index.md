@@ -7,7 +7,7 @@ CV and references available on request.
 
 - Director, Data Systems & Solutions Lab ([DASSL](https://dassl.github.io/))
 
-- Moderator, Special Interest Group on C++ ([SIGCPP](https://sigcpp.github.io/))
+- Founder and Moderator, Special Interest Group on C++ (SIGCPP [Blog](https://sigcpp.github.io/) [Tweets](https://twitter.com/sigcpp))
 
 - Senior Member, Association for Computing Machinery ([ACM](https://www.acm.org/))
 
@@ -33,7 +33,7 @@ CV and references available on request.
 
 - Working in techincal teams with responsibility for architecture, design, code, and review
 
-- Techno-legal, techno-financial activities such as troubleshooting, patent defense/dispute, and e-discovery
+- Techno-legal, techno-financial activities: troubleshooting, IP prosecution and defense, e-discovery
 
 
 #### Personal interests
