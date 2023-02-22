@@ -15,7 +15,7 @@ CV and references available on request.
 
 
 #### Social
-- [Mastodon](https://mastodon.social/@smurthys)
+- [Mastodon](https://hachyderm.io/@smurthys)
 
 - [Twitter](https://twitter.com/smurthys)
 
