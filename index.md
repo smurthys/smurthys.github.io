@@ -62,9 +62,9 @@ CV and references available on request.
 
 - General Manager, Applied Research, Wipro Technologies
 
-- Research, Portland State University
+- Researcher, Portland State University
 
-- Faculty and Research, Oregon Health & Science University (OGI School of Science & Engineering)
+- Faculty and Researcher, Oregon Health & Science University (OGI School of Science & Engineering)
 
 - Faculty, Oregon Institute of Technology
 
