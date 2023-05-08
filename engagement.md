@@ -5,7 +5,7 @@ high schools ("pre university" in India). I also provide faculty development.
 
 The following is a shortlist of topics for presentation to **CS undergraduate** students and faculty.
 The topics are based on student and faculty feedback on what they find helpful. I am happy
-to consider other topics in which I have sufficient expertise. (I am happy to find the right
+to consider other topics in which I have sufficient expertise. (I will assist in finding the right
 speaker if I do not have expertise in the desired topic.)
 
 
