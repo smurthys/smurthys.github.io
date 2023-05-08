@@ -93,11 +93,15 @@ working relationship with the recommender. If a relationship does not exist, eng
 one or more talks at the college is a common way to start the relationship.
 
 Visit the following links for examples of projects and processes: 
-- (https://dassl.github.io/)
-- (https://github.com/sigcpp/stl-lite)
+- [https://dassl.github.io/](https://dassl.github.io/)
+- [https://github.com/sigcpp/stl-lite](https://github.com/sigcpp/stl-lite)
 
 
 #### Contact
 
-I encourage students and faculty to follow and message me directly on [Mastodon](https://hachyderm.io/@smurthys).
-Faculty and admins will quite likely also have my e-mail address and may e-mail me directly.
+I encourage direct messages on [Mastodon](https://hachyderm.io/@smurthys).
+Faculty and admins will quite likely also have my e-mail address.
+
+**PS**: If you have my e-mail address, I humbly ask you avoid sharing it with others without
+first checking with me. I receive high volume of mails and like to avoid somehow not noticing 
+genuine e-mails and the senders feeling ignored. Thank you for your understanding and cooperation. 
