@@ -93,8 +93,8 @@ working relationship with the recommender. If a relationship does not exist, eng
 one or more talks at the college is a common way to start the relationship.
 
 Visit the following links for examples of projects and processes: 
-- https://dassl.github.io/
-- https://github.com/sigcpp/stl-lite
+- (https://dassl.github.io/)
+- (https://github.com/sigcpp/stl-lite)
 
 
 #### Contact
