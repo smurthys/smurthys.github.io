@@ -17,7 +17,7 @@ Introduction to Modern C++ | No prior requirement; topics depend on level of fam
 Operator overloading | Familiarity with functions
 Template metaprogramming (TMP) | Familiarity with functions
 Containers in the C++ Standard Library | Introductory C++
-Compile-time computation | Introductory C++
+Compile-time computation | Introductory C++ and assembly language
 Working with Strings | Introductory C++
 Rules of zero, three, and five | Familiarity with classes
 Exception-handling and alternatives | Familiarity with TMP
