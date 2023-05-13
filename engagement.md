@@ -1,7 +1,9 @@
 [Home](/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;\|&nbsp;&nbsp;[Publications](/pubs)&nbsp;&nbsp;\|&nbsp;&nbsp;[Engagement](/engagement)
 
-I frequently speak to students and faculty at engineering schools and universities, as well as upper-level
-high schools ("pre university" in India). I also provide faculty development.
+I frequently engage with faculty and students at engineering schools, colleges, and universities, as well as upper-level
+high schools (aka "pre university" in India and other countries). The engagement could be in the form of workshops, 
+tutorials, guest lectures, open forums ("Ask me Anything"), consulting, one-on-one sessions. I can target any of these for
+either students or faculty.
 
 The following is a shortlist of topics for presentation to **CS undergraduate** students and faculty.
 The topics are based on student and faculty feedback on what they find helpful. I am happy
