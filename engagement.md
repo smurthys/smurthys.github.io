@@ -1,9 +1,8 @@
 [Home](/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;\|&nbsp;&nbsp;[Publications](/pubs)&nbsp;&nbsp;\|&nbsp;&nbsp;[Engagement](/engagement)
 
-I frequently engage with faculty and students at engineering schools, colleges, and universities, as well as upper-level
-high schools (aka "pre university" in India and other countries). The engagement could be in the form of workshops, 
-tutorials, guest lectures, open forums ("Ask me Anything"), consulting, one-on-one sessions. I can target any of these for
-either students or faculty.
+I frequently engage with faculty and students at schools, colleges, and universities. The engagement is in the 
+form of workshops, tutorials, guest lectures, open forums ("Ask me Anything"), consulting, and one-on-one sessions. 
+Any of these kinds of engagements can be either for faculty or for students.
 
 The following is a shortlist of topics for presentation to **CS undergraduate** students and faculty.
 The topics are based on student and faculty feedback on what they find helpful. I am happy
@@ -24,7 +23,7 @@ Working with Strings | Introductory C++
 Rules of zero, three, and five | Familiarity with classes
 Exception-handling and alternatives | Familiarity with TMP
 Type Traits | Familiarity with TMP
-Constraints and Concepts | Type traits
+Constraints and Concepts | Familiarity with type traits
 Core C++ Guidelines | Introductory C++; topics depend on level of familiarity with C++
 
 
