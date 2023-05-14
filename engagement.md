@@ -12,11 +12,6 @@ and to add meaningful academic value. I am firmly committed to this cause and wi
 with anyone similarly committed. To this end, I humbly welcome inquiries from people and institutions
 that share my vision and values on improving education so that together we can build a better society.
 
-Finally, over the years, I have come to believe that a successful engagement has both support and participation
-from institutional leaders (dean, principal, director, provost, and so on depending on the organizational
-structure). Thus, I entertain inquiries from insitutions where the leadership demonstrably understands 
-and promotes the value of the engagement.
-
 
 ### Engagement Process
 
@@ -48,17 +43,17 @@ to students.
 The host institution needs to arrange transportation to and from my homebase in the country. I 
 will not have the time or familiarity to arrange transportation on my own.
 
-I will bring my own computer and phone, but I will need Internet connection for both devices. If 
+I will bring my own computer and phone, but will need Internet connection for both devices. If 
 I make a presentation (say a guest lecture), I will also need an external HDMI or USB-C monitor,
-an external USB keyboard and mouse, and a clean whiteboard for impromptu use. I assume the 
-external monitor will be shared to an overhead projector. 
+optionally an external USB keyboard and mouse, and a clean whiteboard for impromptu use. I assume the 
+external monitor will also be shared to an overhead projector. 
 
 (I need an external monitor to see my own presentation without craning my neck at the projector
-screen. I use my computer's screen to view my own private notes and scripts during the presentation.)
+screen. I use my computer's screen to privately view my notes and scripts related to the presentation.)
 
-I do not take any food or drink during a day visit: not even coffee, tea, or milk. I do not 
+I do not take any food or drink during a day visit: not even coffee, tea, or milk. However, I do not 
 mind other people consuming food and drinks in my presence, but I ask I not be pressured to partake.
-I will let the host know if my requirements change. 
+I will let the host know if my requirements change.
 
 **I would like safe drinking water** during the visit.
 
