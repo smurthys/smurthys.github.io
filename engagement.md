@@ -17,7 +17,8 @@ on improving education and through that building a better society.
 Finally, over the years, I have come to believe that a successful engagement has both support and participation
 from institutional leaders (dean, principal, director, provost, and so on depending on the organizational
 structure). Thus, I generally entertain inquiries only from insitutions where the leadership demonstrably
-understands and promotes the value of the engagement.
+understands and promotes the value of the engagement. (I do make exceptions.)
+
 
 ### Engagement Process
 
@@ -43,36 +44,44 @@ to students.
 7. Execute the engagement.
 8. Evaluate the engagement: success or failure, how could it have been better, potential future engagements, and so on. 
 
+
+### Logistics
+
+The host institution needs to arrange transportation to and from my homebase in the country. I 
+will not have the time or familiarity to arrange transportation on my own.
+
+I will bring my own computer and phone, but I will need Internet connection for both devices. If 
+I make a presentation (say a guest lecture), I will also need an external HDMI or USB-C monitor,
+an external USB keyboard and mouse, and a clean whiteboard for impromptu use. I assume the 
+external monitor will be shared to an overhead projector. 
+
+(I need an external monitor to see my own presentation without craning my neck at the projector
+screen. I use my computer's screen to view my own private notes and scripts during the presentation.)
+
+I do not take any food or drink during a day visit: not even coffee or tea or milk. I have no 
+problem with other people consuming food and drinks in any meeting or activity I participate, 
+but I ask I not be pressured to partake. I will let the host know if my requirements change. 
+
+**I would like good, clean drinking water** during the visit.
+
+
 ### Day visits
 
 A "day visit" is the most common form of engagement and frequently takes place when I am already 
 visiting the country.
 
-The host institution needs to arrange transportation at their expense to and from my homebase in 
-the country. I will not have the time or familiarity to arrange transportation on my own.
-
-I will bring my computer and phone, but I will need Internet connection for both devices. If I
-make a presentation (say a guest lecture), I will also need an external HDMI or USB-C monitor,
-an external USB keyboard and mouse, and a clean whiteboard for impromptu use. I assume the 
-external monitor will be shared to an overhead projector. (I need an external monitor to see my
-own presentation without craning my neck at the projector screen. I use my computer's screen to
-view my own notes and scripts.)
-
-I do not take any food or drink during a day visit: not even coffee or tea or milk. I have no 
-problem with other people consuming food and drinks in any meeting or activity I participate, 
-but I ask I not be compelled/pressured to partake. I will let the host know if my requirements 
-change. **I would like good, clean water** during the visit.
+A day visit typically lasts between four and eight hours. It often involves meet with faculty, 
+a guest lecture, and an open forum ("Ask me Anything"). In general, I do not entertain a campus
+visit with just a guest lecture and nothing else because it has too much overhead in terms of
+transportation and my own preparation. Thus, I humbly request that hosts plan an agenda that is
+worthy of everyone's time and effort. (See a template non-binding agenda for a day visit.)
 
 I generally do not expect [honorarium](https://en.wikipedia.org/wiki/Honorarium) for a day visit,
-but I appreciate it and consider it a sign of respect. It is important I clarify that I entertain
-day visits purely for intellectual satisfaction and to experience the campus. I spend any honoraria
-I receive on engagement-related activities and to help out deserving students.
+but it is appreciated. It is important to clarify that I entertain day visits for intellectual 
+satisfaction. I spend any honoraria I receive on engagement-related activities and to help deserving
+students. 
 
-A "day visit" typically lasts between four and eight hours. It often involves meet with faculty, a
-guest lecture, and an open forum ("Ask me Anything"). In general, I do not entertain a campus visit
-with just a guest lecture and nothing else because it has too much overheads in terms of transportation
-and my own preparation. Thus, I humbly request that hosts plan an agenda that is worthy of everyone's
-time and effort. (See a template agenda for a day visit.)
+(The engagements are NOT a profit-making or resume-enhancing exercise for me.)
 
 
 ### Topics
@@ -88,13 +97,14 @@ the right speaker if I do not have expertise in the desired topic.)
 Topic | Pre-requisites
 :---- | :-------------
 Introduction to Modern C++ | No prior requirement; topics depend on level of familiarity with C++
-Modern C++ for C, Java, Python Programmers | Intermediate-level knowledge of a language other than C++
+Modern C++ for C, Java, Python Programmers | Introductory knowledge of a language other than C++
 Operator overloading | Familiarity with C++ functions
 Template metaprogramming (TMP) | Familiarity with C++ functions
 Containers in the C++ Standard Library | Introductory C++
 Compile-time computation | Introductory C++ and assembly language
 Working with Strings | Introductory C++
-Rules of zero, three, and five | Familiarity with ++ classes
+Rules of zero, three, and five | Familiarity with C++ classes
+Memory Management | Familiarity with dynamic-memory allocation and deallocation
 Exception-handling and alternatives | Familiarity with TMP
 Type Traits | Familiarity with TMP
 Constraints and Concepts | Familiarity with C++ type traits
@@ -175,13 +185,11 @@ Visit the following links for examples of projects and processes:
 
 #### Contact
 
-I encourage direct messages on [Mastodon](https://hachyderm.io/@smurthys).
-Faculty and admins will quite likely also have my e-mail address.
+I encourage direct messages on [Mastodon](https://hachyderm.io/@smurthys). 
 
-Most people get my mail address or phone number from mutual friends or
-from people in institutions that have already engaged me. People sometimes also make first contact
-on [social media](/).
+Most faculty and administrators get my mail address or phone number from mutual friends or from people
+in institutions that have already engaged me. People sometimes also make first contact on [social media](/).
 
-**PS**: If you have my e-mail address, I humbly ask you avoid sharing it with others without
+**PS**: If you have my e-mail address, I respectfully ask you not share it with others without
 first checking with me. I receive high volume of mails and like to avoid somehow not noticing 
 genuine e-mails and the senders feeling ignored. Thank you for your understanding and cooperation. 
