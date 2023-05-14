@@ -189,7 +189,7 @@ Visit the following links for examples of projects and processes:
 #### Contact
 
 Most faculty and administrators get my mail address or phone number from mutual friends or from people
-in institutions that have already engaged me. People sometimes also make first contact on [social media](/).
+in institutions that have already engaged me. People sometimes also make first contact on [social media](/#social).
 
 If contacting on social media, especially students, I encourage direct messages on [Mastodon](https://hachyderm.io/@smurthys).
 
