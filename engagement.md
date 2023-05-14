@@ -7,24 +7,22 @@ tutorials, guest lectures, open forums ("Ask me Anything"), consulting, and one-
 I am able to customize faculty development, curriculum development, strategic planning, and similar
 activities to specific departmental and institutional needs.
 
-I take all engagments--small or large--seriously. My overarching goal is to improve the quality of
-education and to add meaningful academic value. I am firnly committed to this cause and will collaborate
-with anyone similarly committed.
-
-I humbly and respectfully welcome inquiries from people and institutions who share my vision and values
-on improving education and through that building a better society.
+I take all engagments--small and large--seriously. My goal is to improve the quality of education 
+and to add meaningful academic value. I am firmly committed to this cause and will collaborate
+with anyone similarly committed. To this end, I humbly welcome inquiries from people and institutions
+that share my vision and values on improving education so that together we can build a better society.
 
 Finally, over the years, I have come to believe that a successful engagement has both support and participation
 from institutional leaders (dean, principal, director, provost, and so on depending on the organizational
-structure). Thus, I generally entertain inquiries only from insitutions where the leadership demonstrably
-understands and promotes the value of the engagement. (I do make exceptions.)
+structure). Thus, I entertain inquiries from insitutions where the leadership demonstrably understands 
+and promotes the value of the engagement.
 
 
 ### Engagement Process
 
 Much of this section is for institutions outside the USA. (The US structure is quite different.)
 
-I strongly recommend that the head/chair of the host department (typically Computer Science or Information
+I strongly recommend that the head of the host department (typically Computer Science or Information
 Science) or someone in institutional leadership be the sole contact person for all communication with me. 
 Regardless, the contact should be someone with the position and influence within the institution to coordinate,
 plan, and execute the engagement. They will also need sufficient knowledge of the academic portion of the
@@ -96,7 +94,7 @@ topics listed. However, my presentations cover modern material and discuss many 
 the curriculum does not address. Also, presentations include real-life examples and employ
 current tools and processes. They also include thought-proviking exercises for the audience.
 
-Rest assured I carefully select topics and I am confident they add significant educational
+Rest assured I carefully select topics and am confident they add significant educational
 value. (I am open to public evaluations of my material to test this assertions.) I advise
 against brushing off the topics simply because the words in the title are similar to those
 in a curricular topic. At least, please check with me prior to forming an opinion. 
@@ -108,7 +106,7 @@ These topics are open to and recommended for students in all engineering discipl
 
 Topic | Pre-requisites
 :---- | :-------------
-Git, GitHub | No particular requirement
+Git and GitHub | No particular requirement
 Social coding | Introductory software engineering
 Teams and ethics | Introductory software engineering
 Markdown documentation | No particular requirement
