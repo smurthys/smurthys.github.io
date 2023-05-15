@@ -122,7 +122,7 @@ Markdown documentation | No particular requirement
 Building static websites | Markdown, 4th semester or later
 Professional Communication | 4th semester or later, familiarity with "Office" applications
 Scholarly Communication - 1 | 6th semester or later, familiarity with "Office" applications
-Scholarly Communication - 2 | Masters or PhD students, especially those needing write a "thesis"
+Scholarly Communication - 2 | Masters and PhD students (those needing write a "thesis")
 
 
 #### Software Engineering
