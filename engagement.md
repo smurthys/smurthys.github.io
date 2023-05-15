@@ -27,7 +27,7 @@ a guest lecture to students.
 
 I recommend the engagement have the backing of institutional leadership: Institutional support adds
 "gravity" to the engagement which in turn boosts audience participation (both students and faculty). While I
-am happy to engage any audience, appropriate organization and reception are necessary for my own satisfaction
+am happy to engage any audience, appropriate organization and participation are factors in my own satisfaction
 from the engagement. They are also a way to recognize and reciprocate my effort. 
 
 **Typical engagement process:**
