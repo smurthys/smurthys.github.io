@@ -57,9 +57,9 @@ external monitor will also be shared to an overhead projector.
 (I need an external monitor to see my own presentation without craning my neck at the projector
 screen. I use my computer's screen to privately view my notes and scripts related to the presentation.)
 
-I do **not** take any food or beverage during a day visit: not even coffee, tea, or milk. However,
-I do not mind other people consuming food and drinks in my presence, but I ask not to be pressured
-to partake. I will let the host know if my requirements change.
+I do **not** take any food or beverage during a day visit: not even coffee, tea, or milk. I do not
+mind other people consuming food and beverage in my presence, but I ask not to be pressured to partake.
+I will inform the host if my requirements change.
 
 **I would like safe drinking water** during the visit.
 
@@ -120,6 +120,9 @@ Social coding | Introductory software engineering
 Teams and ethics | Introductory software engineering
 Markdown documentation | No particular requirement
 Building static websites | Markdown, 4th semester or later
+Professional Communication | 4th semester or later, familiarity with "Office" applications
+Scholarly Communication - 1 | 6th semester or later, familiarity with "Office" applications
+Scholarly Communication - 2 | Masters or PhD students, especially those needing write a "thesis"
 
 
 #### Software Engineering
