@@ -111,7 +111,7 @@ curricular topics. At least, check with me prior to forming an opinion.
 
 #### Professional development 
 
-These topics are open to and recommended for students in all engineering disciplines.
+Most of these topics are open to and recommended for all disciplines; not just CS.
 
 Topic | Pre-requisites
 :---- | :-------------
@@ -122,7 +122,7 @@ Markdown documentation | No particular requirement
 Building static websites | Markdown, 4th semester or later
 Professional Communication | 4th semester or later, familiarity with "Office" applications
 Scholarly Communication - 1 | 6th semester or later, familiarity with "Office" applications
-Scholarly Communication - 2 | Masters and PhD students (those needing write a "thesis")
+Scholarly Communication - 2 | Masters and PhD students (those needing to write a "thesis")
 
 
 #### Software Engineering
