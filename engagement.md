@@ -90,16 +90,23 @@ faculty. The topics are based on student and faculty feedback on what they find 
 happy to consider other topics in which I have sufficient expertise. (I will assist in finding
 the right speaker if I do not have expertise in the desired topic.)
 
-PS: At first glance, it might seem like the prescribed curriculum already covers some of the
-topics listed. However, my presentations cover **modern material** and discuss several finer
-aspects the curriculum does not. Also, presentations include real-life examples and employ
-**modern tools and processes**. They also include **thought-provoking** exercises for the 
-audience. I even provide feedback to anyone who sends me their solutions to exercises. 
+Please inquire for topics exclusive to graduate ("Masters") students. Many of the topics listed
+here also work for graduate students with attention to deeper technical aspects.
+
+Pre-university engagement is rare, but I am generally able to engage on any topic the students
+and faculty wish.
+
+PS: At first glance, it might seem like the prescribed undergraduate curriculum already covers
+some of the topics listed. However, my presentations cover **modern material** and discuss 
+several finer aspects the curriculum does not. Also, presentations include real-life examples
+and employ **modern tools and processes**. They also include **thought-provoking** exercises
+for the audience, and I even provide feedback to anyone who sends me their solutions after
+the event.
 
 Rest assured I carefully select topics and am confident they add significant educational
-value. (I am open to public evaluations of my material to test this assertions.) I advise
-against brushing off the topics simply because the title words are similar to those in a
-curricular topic. At least, please check with me prior to forming an opinion. 
+value. (I am open to public review of my material to test this assertions.) I humbly advise
+against brushing off the topics just because the title words are similar to those in
+curricular topics. At least, check with me prior to forming an opinion. 
 
 
 #### Professional development 
