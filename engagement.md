@@ -2,7 +2,8 @@
 
 I engage students, faculty, and administrators of schools, colleges, and universities worldwide.
 The engagement can be short term (like a day visit) or long term. It can be in the form of workshops,
-tutorials, guest lectures, open forums ("Ask me Anything"), consulting, and one-on-one sessions.
+tutorials, guest lectures, open forums ("Ask me Anything"), consulting, one-on-one sessions, mentoring,
+and project guidance.
 
 I am able to customize faculty development, curriculum development, strategic planning, and similar
 activities to specific departmental and institutional needs.
@@ -17,12 +18,17 @@ that share my vision and values on improving education so that together we can b
 
 Much of this section is for institutions outside the USA. (The US structure is quite different.)
 
-I strongly recommend that the head of the host department (typically Computer Science or Information
-Science) or someone in institutional leadership be the sole contact person for all communication with me. 
-Regardless, the contact should be someone with the position and influence within the institution to coordinate,
-plan, and execute the engagement. They will also need sufficient knowledge of the academic portion of the
-engagement. For example, they should be familiar with academic schemes and syllabi if organizing a guest lecture
-to students.
+I strongly recommend that the **head of the host department** (typically Computer Science or Information
+Science) or **someone in institutional leadership** be the sole contact person for all communication with
+me. Regardless, the contact person should be someone with the position and influence within the institution
+to coordinate, plan, and execute the engagement. They will also need sufficient knowledge of the academic
+portion of the engagement. For example, they should be familiar with academic schemes and syllabi if organizing
+a guest lecture to students.
+
+I recommend the engagement have the backing of institutional leadership: Institutional support adds
+"gravity" to the engagement which in turn boosts audience participation (both students and faculty). While I
+am happy to engage any audience, appropriate organization and receiption are necessary for my own satisfaction
+from the engagement. They are also a way to recognize and reciprocate my effort. 
 
 **Typical engagement process:**
 
@@ -51,9 +57,9 @@ external monitor will also be shared to an overhead projector.
 (I need an external monitor to see my own presentation without craning my neck at the projector
 screen. I use my computer's screen to privately view my notes and scripts related to the presentation.)
 
-I do not take any food or drink during a day visit: not even coffee, tea, or milk. However, I do not 
-mind other people consuming food and drinks in my presence, but I ask I not be pressured to partake.
-I will let the host know if my requirements change.
+I do **not** take any food or beverage during a day visit: not even coffee, tea, or milk. However,
+I do not mind other people consuming food and drinks in my presence, but I ask not to be pressured
+to partake. I will let the host know if my requirements change.
 
 **I would like safe drinking water** during the visit.
 
@@ -67,14 +73,14 @@ A day visit lasts between four and eight hours and often involves a meet with fa
 lecture, and an open forum ("Ask me Anything"). In general, I do not entertain a campus visit 
 with just a guest lecture and nothing else because it has too much overhead in terms of
 transportation and my own preparation. Thus, I humbly request that hosts plan an agenda that is
-worthy of everyone's time and effort. (See a [template non-binding agenda](/template-day-visit-agenda).)
+worthy of everyone's time and effort. (See a [template non-binding agenda](/day-visit-agenda-template).)
 
 I generally do not expect [honorarium](https://en.wikipedia.org/wiki/Honorarium) for a day visit,
 but appreciate it and accept it as a token of respect. It is important to clarify that I entertain 
 day visits for intellectual satisfaction. I spend any honoraria I receive on engagement-related
 activities and to help deserving students. 
 
-(The engagements are NOT a profit-making or resume-enhancing exercise for me.)
+(Day visits are NOT a profit-making or résumé-enhancing exercise for me.)
 
 
 ### Topics
@@ -85,14 +91,15 @@ happy to consider other topics in which I have sufficient expertise. (I will ass
 the right speaker if I do not have expertise in the desired topic.)
 
 PS: At first glance, it might seem like the prescribed curriculum already covers some of the
-topics listed. However, my presentations cover modern material and discuss many finer aspects
-the curriculum does not address. Also, presentations include real-life examples and employ
-current tools and processes. They also include thought-proviking exercises for the audience.
+topics listed. However, my presentations cover **modern material** and discuss several finer
+aspects the curriculum does not. Also, presentations include real-life examples and employ
+**modern tools and processes**. They also include **thought-provoking** exercises for the 
+audience. I even provide feedback to anyone who sends me their solutions to exercises. 
 
 Rest assured I carefully select topics and am confident they add significant educational
 value. (I am open to public evaluations of my material to test this assertions.) I advise
-against brushing off the topics simply because the words in the title are similar to those
-in a curricular topic. At least, please check with me prior to forming an opinion. 
+against brushing off the topics simply because the title words are similar to those in a
+curricular topic. At least, please check with me prior to forming an opinion. 
 
 
 #### Professional development 
@@ -112,7 +119,7 @@ Building static websites | Markdown, 4th semester or later
 
 Topic | Pre-requisites
 :---- | :-------------
-Introduction to software engineering | 4th semester or later
+Modern Software Engineering | 4th semester or later
 Introduction to Unified Modeling Language | Introductory OOP
 Software Testing | Introductory software engineering
 Software Test Scaffolding and Strategies | Introductory softwate testing
@@ -179,7 +186,7 @@ and myself.
 Interested students should speak with their admins and faculty, and have them send me
 strong recommendations. Naturally, to accept recommendations, I need to already have a
 working relationship with the recommender. If a relationship does not exist, engaging me for
-one or more talks at the college is a common way to start the relationship.
+one or more talks at the institution is a common way to start the relationship.
 
 Visit the following links for examples of projects and processes: 
 - [https://dassl.github.io/](https://dassl.github.io/)
