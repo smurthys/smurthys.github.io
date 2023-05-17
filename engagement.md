@@ -210,6 +210,8 @@ in institutions that have already engaged me. People sometimes also make first c
 
 If contacting on social media, especially students, I encourage direct messages on [Mastodon](https://hachyderm.io/@smurthys).
 
+Here is a [picture of me](/images/BSSVCUPDN.jpg) that is good enough for use in flyers and such.
+
 **PS**: If you have my e-mail address, I respectfully ask you not share it with others without
 first checking with me. I receive high volume of mails and like to avoid somehow not noticing 
 genuine e-mails and the senders feeling ignored. Thank you for your understanding and cooperation. 
