@@ -149,7 +149,7 @@ Converting ER Schema to Relational Schema | Familiarity with ER and relational m
 Normalization | Familiarity with relational model
 Physical data organization | Familiarity with ER, relational models, and SQL
 Concurrency | Familiarity with relational model and SQL
-Strutured Query Language (SQL) | Familiarity with relational model; basic, intermediate, and advanced levels
+Structured Query Language (SQL) | Familiarity with relational model; basic, intermediate, and advanced levels
 Database Programming (server side) | Familiarity with relational model and SQL
 Database Programming (client side) | Familiarity with Java, relational model, and SQL
 Database Access Control (server side) | Familiarity with relational model and SQL
