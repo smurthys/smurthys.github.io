@@ -13,6 +13,10 @@ and to add meaningful academic value. I am firmly committed to this cause and wi
 with anyone similarly committed. To this end, I humbly welcome inquiries from people and institutions
 that share my vision and values on improving education so that together we can build a better society.
 
+I respectfully ask potential hosts **read this page carefully in its entirety prior to starting the
+engagement process** as it is designed to answer upfront as many questions as possible and to address
+frequent issues.
+
 
 ### Engagement Process
 
@@ -25,10 +29,10 @@ to coordinate, plan, and execute the engagement. They will also need sufficient 
 portion of the engagement. For example, they should be familiar with academic schemes and syllabi if organizing
 a guest lecture to students.
 
-I recommend the engagement have the backing of institutional leadership: Institutional support adds
-"gravity" to the engagement which in turn boosts audience participation (both students and faculty). While I
-am happy to engage any audience, appropriate organization and participation are factors in my own satisfaction
-from the engagement. They are also a way to recognize and reciprocate my effort. 
+I recommend the engagement have **institutional support** because it adds "gravity" to the engagement 
+which in turn boosts audience participation (both students and faculty). While I am happy to engage any
+audience, appropriate organization and participation are factors in my own satisfaction from the engagement.
+They are also a way to recognize and reciprocate my effort.
 
 **Typical engagement process:**
 
@@ -37,17 +41,26 @@ from the engagement. They are also a way to recognize and reciprocate my effort.
    with an "event coordinator".
 2. A formal invitation to me by mail with a broad statement on the nature of engagement. 
 3. Exchange mails or calls with me to determine the exact nature of engagement. 
-4. Develop and share with me a plan and agenda for the engagement.
-5. Advertise the engagement with appropriate audience: students, faculty, and administrators.
+4. Develop and share with me a plan and agenda for the engagement. Please note that the agenda needs to be
+   specific about time windows for each activity and the purpose for each activity. I am unable to
+   work with agendas that simply say "guest lecture", "faculty meeting", etc. 
+5. Advertise the engagement to appropriate audience: students, faculty, and administrators. A link to my
+   picture is in the Contact section.
 6. Make logistical arrangements.
 7. Execute the engagement.
-8. Evaluate the engagement: success or failure, how could it have been better, potential future engagements, and so on. 
+8. Evaluate the engagement: success or failure, how could it have been better, potential future engagements, and so on.
+   I will mostly likely send the host links to pre-event and post-event surveys as part of evaluation.
+   The host is responsibile for promptly broadcasting the survey to the target audience (both students
+   and faculty).
 
 
 ### Logistics
 
 The host institution needs to arrange transportation to and from my homebase in the country. I 
-will not have the time or familiarity to arrange transportation on my own.
+will not have the time or familiarity to arrange transportation on my own. The transportation 
+should be safe, clean, and reasonably efficient and comfortable because I like to arrive on
+campus without anxiety or perspiration. And, with respect, please, no "cheapest car for hire"
+or beat up vehicles. Definitely no 2-wheelers.
 
 I will bring my own computer and phone, but will need Internet connection for both devices. If 
 I make a presentation (say a guest lecture), I will also need an external HDMI or USB-C monitor,
@@ -70,10 +83,16 @@ A "day visit" is the most common form of engagement and frequently takes place w
 visiting the country.
 
 A day visit lasts between four and eight hours and often involves a meet with faculty, a guest 
-lecture, and an open forum ("Ask me Anything"). In general, I do not entertain a campus visit 
-with just a guest lecture and nothing else because it has too much overhead in terms of
-transportation and my own preparation. Thus, I humbly request that hosts plan an agenda that is
-worthy of everyone's time and effort. (See a [template non-binding agenda](/day-visit-agenda-template).)
+lecture, and an open forum ("Ask me Anything"), and a meet with institutional leadership, at least
+departmental leadership. 
+
+In general, **I do not entertain a visit with just a guest lecture and nothing else** because it 
+has too much overhead in terms of transportation and my own preparation. Thus, I humbly request 
+that hosts plan an agenda that is worthy of everyone's time and effort. 
+(See a [template non-binding agenda](/day-visit-agenda-template).)
+
+**PS:** Over time, I have come to suspect visits where I don't actually meet at least the
+departmental leadership. Unless I have a personal connection, I no longer entertain such visits.
 
 I generally do not expect [honorarium](https://en.wikipedia.org/wiki/Honorarium) for a day visit,
 but appreciate it and accept it as a token of respect. It is important to clarify that I entertain 
@@ -90,8 +109,9 @@ faculty. The topics are based on student and faculty feedback on what they find 
 happy to consider other topics in which I have sufficient expertise. (I will assist in finding
 the right speaker if I do not have expertise in the desired topic.)
 
-Please inquire for topics exclusive to graduate ("Masters") students. Many of the topics listed
-here also work for graduate students with attention to deeper technical aspects.
+Please inquire for topics exclusive to graduate students (Masters and PhD). Many of the topics
+listed also work for graduate students with attention to deeper technical aspects. Some of the
+listed topics are actually graduate-only as noted under pre-requisites.
 
 Pre-university engagement is rare, but I am generally able to engage on any topic the students
 and faculty wish.
@@ -104,7 +124,7 @@ for the audience, and I even provide feedback to anyone who sends me their solut
 the event.
 
 Rest assured I carefully select topics and am confident they add significant educational
-value. (I am open to public review of my material to test this assertions.) I humbly advise
+value. (I am open to public review of my material to test this assertion.) I humbly advise
 against brushing off the topics just because the title words are similar to those in
 curricular topics. At least, check with me prior to forming an opinion. 
 
