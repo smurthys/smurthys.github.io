@@ -13,7 +13,7 @@ and to add meaningful academic value. I am firmly committed to this cause and wi
 with anyone similarly committed. To this end, I humbly welcome inquiries from people and institutions
 that share my vision and values on improving education so that together we can build a better society.
 
-I respectfully ask potential hosts **read this page carefully in its entirety prior to starting the
+I respectfully ask potential hosts to **read this page carefully in its entirety prior to starting the
 engagement process** as it is designed to answer upfront as many questions as possible and to address
 frequent issues.
 
@@ -62,6 +62,10 @@ should be safe, clean, and reasonably efficient and comfortable because I like t
 campus without anxiety or perspiration. And, with respect, no "cheapest car for hire" or beat
 up vehicles please. Definitely no 2-wheelers.
 
+The host needs to arrange safe, clean, and reasonably comfortable lodging if the visit is
+longer than eight hours, involves consecutive days, or if the situation makes a same-day return
+to my homebase unsafe or impractical in some way.
+
 I will bring my own computer and phone, but will need Internet connection for both devices. If 
 I make a presentation (say a guest lecture), I will also need an external HDMI or USB-C monitor,
 optionally an external USB keyboard and mouse, and a clean whiteboard for impromptu use. I assume the 
@@ -69,6 +73,13 @@ external monitor will also be shared to an overhead projector.
 
 (I need an external monitor to see my own presentation without craning my neck at the projector
 screen. I use my computer's screen to privately view my notes and scripts related to the presentation.)
+
+I cannot part with my computer, provide my computer's password, or allow others to use my computer
+without my supervision. I cannot install custom software or change security settings to get Internet
+connection. I am happy to arrive early to check that all connections from my computer are good.
+
+No audio or video recording of my presentations without my prior explicit approval. Obviously, people
+take pictures during presentation, but no pictures of slides and other material (projected or otherwise).
 
 I do **not** take any food or beverage during a day visit: not even coffee, tea, or milk. I do not
 mind other people consuming food and beverage in my presence, but I ask not to be pressured to partake.
@@ -95,9 +106,11 @@ hosts plan an agenda that is worthy of everyone's time and effort.
 I generally do not expect [honorarium](https://en.wikipedia.org/wiki/Honorarium) for a day visit,
 but appreciate it and accept it as a token of respect. It is important to clarify that I entertain 
 day visits for intellectual satisfaction. I spend any honoraria I receive on engagement-related
-activities and to help deserving students. 
+activities and to help deserving students. (Day visits are NOT a profit-making or résumé-enhancing
+exercise for me.)
 
-(Day visits are NOT a profit-making or résumé-enhancing exercise for me.)
+I do expect honorarium if I make multiple visits or if the engagement involves workshop, tutorial,
+faculty-specific activities, or any intensive activity. (Not a comprehensive list.)
 
 
 ### Topics
