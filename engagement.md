@@ -34,6 +34,15 @@ which in turn boosts audience participation (both students and faculty). While I
 audience, appropriate organization and participation are factors in my own satisfaction from the engagement.
 They are also a way to recognize and reciprocate my effort.
 
+I appreciate professional communication with the host, including them carefully reading my messages, 
+promptly replying to messages, and appraising me early of any issues with planning or executing the
+engagement.
+
+I strongly recommend that hosts finalize the agenda for the engagement at least one week prior to when
+the engagement actually takes place. I try to be flexible, but I like to avoid feeling pressured or 
+having to pressure someone.
+
+
 **Typical engagement process:**
 
 1. An informal mail or call from a department head or a person in institutional leadership introducing
@@ -75,8 +84,9 @@ external monitor will also be shared to an overhead projector.
 screen. I use my computer's screen to privately view my notes and scripts related to the presentation.)
 
 I cannot part with my computer, provide my computer's password, or allow others to use my computer
-without my supervision. I cannot install custom software or change security settings to get Internet
-connection. I am happy to arrive early to check that all connections from my computer are good.
+without my supervision. I cannot install custom software or change security settings to complete
+any part of the engagement. However, I am happy to arrive early to check that my computer plays well
+with the host environment.
 
 No audio or video recording of my presentations without my prior explicit approval. Obviously, people
 take pictures during presentation, but no pictures of slides and other material (projected or otherwise).
