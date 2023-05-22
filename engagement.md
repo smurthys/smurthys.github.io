@@ -41,16 +41,16 @@ They are also a way to recognize and reciprocate my effort.
    with an "event coordinator".
 2. A formal invitation to me by mail with a broad statement on the nature of engagement. 
 3. Exchange mails or calls with me to determine the exact nature of engagement. 
-4. Develop and share with me a plan and agenda for the engagement. Please note that the agenda needs to be
-   specific about time windows for each activity and the purpose for each activity. I am unable to
-   work with agendas that simply say "guest lecture", "faculty meeting", etc. 
+4. Develop and share with me a plan and agenda for the engagement. Please note that the plan/agenda needs
+   to be specific about time windows for each activity and the purpose for each activity. I am unable to
+   work with agendas that simply have placeholders such as "guest lecture", "faculty meeting", etc.
 5. Advertise the engagement to appropriate audience: students, faculty, and administrators. A link to my
    picture is in the Contact section.
 6. Make logistical arrangements.
 7. Execute the engagement.
 8. Evaluate the engagement: success or failure, how could it have been better, potential future engagements, and so on.
-   I will mostly likely send the host links to pre-event and post-event surveys as part of evaluation.
-   The host is responsibile for promptly broadcasting the survey to the target audience (both students
+   I send the host links to pre-event and post-event surveys as part of the evaluation. 
+   The host should promptly broadcast the survey to the target audience (both students
    and faculty).
 
 
@@ -59,8 +59,8 @@ They are also a way to recognize and reciprocate my effort.
 The host institution needs to arrange transportation to and from my homebase in the country. I 
 will not have the time or familiarity to arrange transportation on my own. The transportation 
 should be safe, clean, and reasonably efficient and comfortable because I like to arrive on
-campus without anxiety or perspiration. And, with respect, please, no "cheapest car for hire"
-or beat up vehicles. Definitely no 2-wheelers.
+campus without anxiety or perspiration. And, with respect, no "cheapest car for hire" or beat
+up vehicles please. Definitely no 2-wheelers.
 
 I will bring my own computer and phone, but will need Internet connection for both devices. If 
 I make a presentation (say a guest lecture), I will also need an external HDMI or USB-C monitor,
@@ -83,16 +83,14 @@ A "day visit" is the most common form of engagement and frequently takes place w
 visiting the country.
 
 A day visit lasts between four and eight hours and often involves a meet with faculty, a guest 
-lecture, and an open forum ("Ask me Anything"), and a meet with institutional leadership, at least
-departmental leadership. 
+lecture, an open forum ("Ask me Anything"), and a meet with institutional leadership. Unless I
+have a personal/prior connection to the host, I do not entertain visits that do not include a
+genuine meeting with institutional leadership (at least departmental leadership).
 
 In general, **I do not entertain a visit with just a guest lecture and nothing else** because it 
-has too much overhead in terms of transportation and my own preparation. Thus, I humbly request 
-that hosts plan an agenda that is worthy of everyone's time and effort. 
+has too much overhead in terms of transportation and my own preparation. Thus, I humbly ask that 
+hosts plan an agenda that is worthy of everyone's time and effort. 
 (See a [template non-binding agenda](/day-visit-agenda-template).)
-
-**PS:** Over time, I have come to suspect visits where I don't actually meet at least the
-departmental leadership. Unless I have a personal connection, I no longer entertain such visits.
 
 I generally do not expect [honorarium](https://en.wikipedia.org/wiki/Honorarium) for a day visit,
 but appreciate it and accept it as a token of respect. It is important to clarify that I entertain 
