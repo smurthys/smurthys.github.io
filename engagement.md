@@ -1,4 +1,4 @@
-[Home](/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;\|&nbsp;&nbsp;[Publications](/pubs)&nbsp;&nbsp;\|&nbsp;&nbsp;[Engagement](/engagement)
+[Home](/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;\|&nbsp;&nbsp;[Publications](/pubs)&nbsp;&nbsp;\|&nbsp;&nbsp;[Engagement](/engagement/)
 
 I engage students, faculty, and administrators of schools, colleges, and universities worldwide.
 The engagement can be short term (like a day visit) or long term. It can be in the form of workshops,
