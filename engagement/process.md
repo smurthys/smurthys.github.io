@@ -69,26 +69,24 @@ hosts plan an agenda that is worthy of everyone's time and effort.
 ### Honorarium
 
 I do not expect [honorarium](https://en.wikipedia.org/wiki/Honorarium) for a day visit, but appreciate
-it and accept it as a token of the host's respect and acknowledgement of the engagement's value.
-
-I do expect honorarium if I make multiple visits or a multiple-day visit, or if the engagement 
-involves workshop, tutorial, faculty-specific activities, or any "intensive activity". 
+it and accept it as a token of the host's respect and acknowledgement of the engagement's value. I do
+expect honorarium if I make multiple visits or a multiple-day visit, or if the engagement involves
+workshop, tutorial, faculty-specific activities, or any "intensive activity". 
 
 I recommend checking with me instead of assuming that honorarium is required or not required.
 
-It is important to clarify that I make
-day visits for intellectual satisfaction. I spend any honoraria I receive on engagement-related
-activities and to help deserving students.Engagement of any kind is NOT a profit-making or
-résumé-enhancing exercise for me.
+It is important to clarify that I make day visits for intellectual satisfaction. I spend any honoraria
+I receive on engagement-related activities and to help deserving students. Engagement of any kind
+is NOT a profit-making or résumé-enhancing exercise for me.
 
 Lastly, I generally do not let the issue of honorarium get in the way of genuine engagement. 
 At the same time, like other professionals, I also believe that all added value should be recognized
-and respected,
-especially when beneficiary institutions profit from the engagement. I will be hard pressed to engage
-instituitions that (attempt to) take advantage of well-meaning people, whether that is me or someone else.
+and respected, especially when beneficiary institutions profit from the engagement. I will be hard 
+pressed to engage instituitions that (attempt to) take advantage of well-meaning people, whether that is
+me or someone else.
 
-Bottom line, I wish to work with like-minded people that are interested in improving educational
-quality and through that make the world at least a bit better.
+Bottom line, I wish to work with like-minded people that are respectful of others and are interested
+in improving educational quality and through that make the world at least a bit better.
 
 
 #### Engagement links
