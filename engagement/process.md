@@ -38,8 +38,8 @@ having to pressure someone.
    to be specific about time windows for each activity and the purpose for each activity. **I am unable to
    work with agendas with placeholders items** such as "guest lecture", "faculty meeting", etc.
 6. Advertise the engagement to appropriate audience: students, faculty, and administrators. 
-   **A link to my picture is in the Contact section on the Engagement page**.
-7. Make logistical arrangements for the visit. Please see the Logistics page.
+   **A link to my picture is on the [Contact](contact) page**.
+7. Make logistical arrangements for the visit. See the [Logistics](logistics) page.
 9. Execute the engagement.
 10. Evaluate the engagement: whether the engagent was a success or a failure, how could it have been better,
     potential future engagements, and so on.
@@ -72,13 +72,23 @@ I do not expect [honorarium](https://en.wikipedia.org/wiki/Honorarium) for a day
 it and accept it as a token of the host's respect and acknowledgement of the engagement's value.
 
 I do expect honorarium if I make multiple visits or a multiple-day visit, or if the engagement 
-involves workshop, tutorial, faculty-specific activities, or any "intensive activity".
+involves workshop, tutorial, faculty-specific activities, or any "intensive activity". 
 
-It is important to clarify that I entertain 
+I recommend checking with me instead of assuming that honorarium is required or not required.
+
+It is important to clarify that I make
 day visits for intellectual satisfaction. I spend any honoraria I receive on engagement-related
-activities and to help deserving students.
+activities and to help deserving students.Engagement of any kind is NOT a profit-making or
+résumé-enhancing exercise for me.
 
-Engagement of any kind is NOT a profit-making or résumé-enhancing exercise for me.
+Lastly, I generally do not let the issue of honorarium get in the way of genuine engagement. 
+At the same time, like other professionals, I also believe that all added value should be recognized
+and respected,
+especially when beneficiary institutions profit from the engagement. I will be hard pressed to engage
+instituitions that (attempt to) take advantage of well-meaning people, whether that is me or someone else.
+
+Bottom line, I wish to work with like-minded people that are interested in improving educational
+quality and through that make the world at least a bit better.
 
 
 #### Engagement links

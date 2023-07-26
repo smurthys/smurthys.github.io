@@ -6,25 +6,26 @@
 in the country. I will not have the time or familiarity to arrange my own transportation. 
 
 Transportation should be safe, clean, and reasonably efficient and comfortable so that I arrive on 
-campus without anxiety or perspiration. And, respectfully, no "cheapest car for hire" please.
-Definitely no 2-wheelers. (Yes, sadly, all of those things have happened.)
+campus without anxiety or perspiration. And, respectfully, no "cheapest car for hire" or 2-wheelers.
+(Yes, sadly, such transportation has showed up.)
 
 **Lodging:** The host needs to arrange safe, clean, and reasonably comfortable lodging if the visit 
-spans multiple days or if the situation makes same-day return to my homebase unsafe or impractical.
+is for more than a day, or if the situation makes same-day return to my homebase unsafe or impractical.
 
 **Food:** I do **not** take any food or beverage during a day visit: not even coffee, tea, or milk. 
 I do not mind other people consuming food and beverage in my presence, but I ask not to be pressured 
-to partake. I will inform the host if my requirements change or if the visit lasts more than one day.
+to partake. I will inform the host if my requirements change or if the visit lasts more than a day.
 
 **I would like safe drinking water** during the visit. If it is not an inconvenience, I would also 
-appreciate some fresh-squeezed lemon juice (just the juice from one lemon with **nothing added**), some table salt
-separate from the lemon juice, a spoon, and a drinking cup. But, just plain water suffices if lemon juice, etc.
-is a problem.
+appreciate some fresh-squeezed lemon juice (just the juice from a lemon with **nothing else added**), 
+some table salt separate from the lemon juice, a spoon, and a drinking cup. But, just plain water
+suffices if lemon juice, etc. is a problem.
 
-**Internet:** I generally bring my own computer and phone, but I will need wireless Internet connection 
+**Internet:** I generally bring my own computer and phone, and I will need wireless Internet connection 
 for both devices throughout my stay.
 
-**Peripherals:** I will need the following peripherals if I make a presentation (which I almost always do):
+**Peripherals:** I like the following peripherals if I make a presentation (which I almost always
+do on visits):
 * An overhead projector connected to my computer using host-provided adaptor/dongle
 * An external monitor and an appropriate adaptor/dongle, mirroring the overhead projector
 * An external keyboard and a mouse
@@ -43,12 +44,12 @@ both an external keyboard and a mouse.
 
 I **cannot** part with my computer, provide my computer's password, or allow others to use my computer
 without my supervision. I also cannot install custom software or change security settings to complete
-any part of the engagement. However, I am happy to arrive early to check that my computer plays well
-with the host environment.
+any part of the engagement. However, I am happy to arrive early to check if my computer plays well
+with the host environment (and I will endeavor to convince it to play well).
 
-**Recording:** No audio or video recording of any part of my engagement without my prior explicit 
-approval. Obviously, people do take pictures during presentation and generally throughout the engagement,
-but no pictures of slides and other material (projected or otherwise).
+**Recording:** No audio or video recording of any part of the engagement without my prior explicit 
+approval. Obviously, people do take pictures during generally throughout the engagement, but no 
+pictures of slides and other material (projected or otherwise).
 
 I do like seeing pictures and videos taken during the engagement. So, please feel free to share them 
 (or links to them).

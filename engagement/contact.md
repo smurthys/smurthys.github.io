@@ -3,7 +3,7 @@
 ## Engagement: Contact
 
 Most faculty and administrators obtain my mail address or phone number from mutual friends or from people
-in institutions that have already engaged me. People sometimes also make first contact on [social media](/#social).
+in institutions I have already visited. People sometimes also make first contact on [social media](/#social).
 
 If contacting on social media, especially students, I encourage direct messages on [Mastodon](https://hachyderm.io/@smurthys).
 
@@ -11,7 +11,7 @@ Here is a [picture of me](/images/BSSVCUPDN.jpg) that should be good for use in 
 Please contact me if you have difficulty accessing it.
 
 **PS**: If you have my e-mail address, I respectfully ask you not share it with others without
-first checking with me. I receive high volume of mails and like to avoid somehow not noticing 
+first checking with me. I receive high volume of mails and like to avoid a situation of not noticing 
 genuine e-mails and the senders feeling ignored. Thank you for your understanding and cooperation. 
 
 #### Engagement links

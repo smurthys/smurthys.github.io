@@ -16,7 +16,7 @@ and faculty wish.
 
 PS: At first glance, it might seem like the prescribed undergraduate curriculum already covers
 some of the topics listed. However, my presentations cover **modern material** and discuss 
-several finer aspects the curriculum does not. Also, presentations include real-life examples
+several finer aspects that the curriculum does not. Also, presentations include real-life examples
 and employ **modern tools and processes**. They also include **thought-provoking** exercises
 for the audience, and I even provide feedback to anyone who sends me their solutions after
 the event.

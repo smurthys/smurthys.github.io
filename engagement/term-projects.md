@@ -5,14 +5,14 @@
 I ocassionally entertain students for term projects. To assure quality, I am quite selective about both
 projects and students. My participation in projects is serious and I expect students to be
 equally invested, be genuinely interested in learning all parts of project management, and
-practice "social coding". Bottom line, the projects are not "resume enhancement" exercises.
+practice "social coding". Bottom line, the projects are not merely "resume enhancement" exercises.
 
 Students typically work on parts of one of my ongoing projects. I am open to new project ideas
 in areas of my interest. It's unlikely I will be interested in projects about buzzwords.
 
 During the project, students will experience first-hand all aspects of project/product management
 using many of the same tools and processes used in the industry. Students who complete projects
-under me generally become preferred candidates with many employers, and practically all students
+under me generally become preferred candidates with many employers, and practically all students engaged
 attribute their success in finding and maintaining jobs to the overall experience. These levels
 of achievement are possible only with discipline and commitment on the part of both the students
 and myself.
