@@ -23,7 +23,7 @@ integration of the Indian Rupee sign; have advised clients on developing, prosec
 and audit in legal and financial matters; and have testified in judicial proceedings.
 
 I am now, or have been, associated with key professional organizations in Computer Science, Service Science, and Web Science. I am a
-member of Association for Computing Machinery \(ACM\), ACM Special Interest Group on Management of Data \(SIGMOD\), Institute of
+Senior member of Association for Computing Machinery \(ACM\), ACM Special Interest Group on Management of Data \(SIGMOD\), Institute of
 Electrical and Electronics Engineers \(IEEE\), and IEEE Computer Society. I was a senior adviser to the Service Research and
 Innovation Institute \(SRII\) and the Founding President of its India chapter. I was also the first Industry Liaison at the Web
 Science Trust.
