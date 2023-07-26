@@ -1,7 +1,8 @@
 [Home](/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;\|&nbsp;&nbsp;[Publications](/pubs)&nbsp;&nbsp;\|&nbsp;&nbsp;[Engagement](/engagement/)
 
-I am a teacher, researcher, and technologist. I am the founder of Data Systems & Solutions Lab \([DASSL](https://dassl.github.io),
-read _dazzle_\) and the Special Interest Group on C++ \([SIGCPP](https://sigcpp.github.io)\). 
+I am a teacher, researcher, and technologist. I am the founder and Director of Data Systems & Solutions
+Lab \([DASSL](https://dassl.github.io),
+read _dazzle_\) and the Founder and Moderator of Special Interest Group on C++ \([SIGCPP](https://sigcpp.github.io)\). 
 I am also a Principal Researcher at The Else Institute (returned to a former position).
 
 Prior to my return to The Else Institute, I was a member of the Computer Science faculty at the University of Texas, Dallas and
