@@ -52,4 +52,4 @@ PS: This is just a template agenda. Hosts should customize it to their goals.
 
 #### Engagement links
 
-[Intro](/engagment/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Process](process)&nbsp;&nbsp;\|&nbsp;&nbsp;[Logistics](logistics)&nbsp;&nbsp;\|&nbsp;&nbsp;[Topics](topics)&nbsp;&nbsp;\|&nbsp;&nbsp;[Term Projects](term-projects)&nbsp;&nbsp;\|&nbsp;&nbsp;[Contact](contact)
+[Intro](/engagement/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Process](process)&nbsp;&nbsp;\|&nbsp;&nbsp;[Logistics](logistics)&nbsp;&nbsp;\|&nbsp;&nbsp;[Topics](topics)&nbsp;&nbsp;\|&nbsp;&nbsp;[Term Projects](term-projects)&nbsp;&nbsp;\|&nbsp;&nbsp;[Contact](contact)

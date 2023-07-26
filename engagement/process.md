@@ -83,4 +83,4 @@ Engagement of any kind is NOT a profit-making or résumé-enhancing exercise for
 
 #### Engagement links
 
-[Intro](/engagment/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Process](process)&nbsp;&nbsp;\|&nbsp;&nbsp;[Logistics](logistics)&nbsp;&nbsp;\|&nbsp;&nbsp;[Topics](topics)&nbsp;&nbsp;\|&nbsp;&nbsp;[Term Projects](term-projects)&nbsp;&nbsp;\|&nbsp;&nbsp;[Contact](contact)
+[Intro](/engagement/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Process](process)&nbsp;&nbsp;\|&nbsp;&nbsp;[Logistics](logistics)&nbsp;&nbsp;\|&nbsp;&nbsp;[Topics](topics)&nbsp;&nbsp;\|&nbsp;&nbsp;[Term Projects](term-projects)&nbsp;&nbsp;\|&nbsp;&nbsp;[Contact](contact)
