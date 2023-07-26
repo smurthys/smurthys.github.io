@@ -1,5 +1,7 @@
 [Home](/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;\|&nbsp;&nbsp;[Publications](/pubs)&nbsp;&nbsp;\|&nbsp;&nbsp;[Engagement](/engagement)
 
+## Engagement: Template Agenda for Day Visit
+
 A "day visit" has a few common activities. The activities are listed here in their typical order, 
 but they may be reordered to suit schedules. A typical visit takes 6-8 hours if it involves all 
 the listed activities.
@@ -46,3 +48,8 @@ PS: This is just a template agenda. Hosts should customize it to their goals.
 
 8.	Departure: 15 minutes. The host department head and some of the institutional leadership get together
     with the guest briefly to bid goodbye.
+
+
+#### Engagement links
+
+[Intro](/engagment/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Process](process)&nbsp;&nbsp;\|&nbsp;&nbsp;[Logistics](logistics)&nbsp;&nbsp;\|&nbsp;&nbsp;[Topics](topics)&nbsp;&nbsp;\|&nbsp;&nbsp;[Term Projects](term-projects)&nbsp;&nbsp;\|&nbsp;&nbsp;[Contact](contact)

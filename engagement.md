@@ -23,11 +23,11 @@ frequent issues.
 Much of this section is for institutions outside the USA. (The US structure is quite different.)
 
 I strongly recommend that the **head of the host department** (typically Computer Science or Information
-Science) or **someone in institutional leadership** be the sole contact person for all communication with
-me. The contact person should have the position and influence within the institution to coordinate, plan,
-and execute the engagement. They will also need sufficient knowledge of the academic portion of the 
-engagement. For example, they should be familiar with academic catalog/scheme and syllabi if organizing
-a guest lecture or workshop.
+Science) or **someone in institutional leadership** be the sole contact person for all communication
+about the engagement. The contact person should have the position and influence within the institution
+to coordinate, plan, and execute the engagement. They will also need sufficient knowledge of the academic
+portion of the engagement. For example, they should be familiar with academic catalog/scheme and syllabi
+if organizing a guest lecture or workshop.
 
 I recommend the engagement have **institutional support** because it adds "gravity" to the engagement, 
 which in turn boosts participation. While I am happy to engage any audience, appropriate organization,
@@ -55,8 +55,8 @@ having to pressure someone.
 5. Develop and share with me a plan and agenda for the engagement. Please note that the plan/agenda needs
    to be specific about time windows for each activity and the purpose for each activity. **I am unable to
    work with agendas with placeholders items** such as "guest lecture", "faculty meeting", etc.
-6. Advertise the engagement to appropriate audience: students, faculty, and administrators. **A link to my
-   picture is in the Contact section on this page**.
+6. Advertise the engagement to appropriate audience: students, faculty, and administrators. 
+   **A link to my picture is in the Contact section on this page**.
 7. Make logistical arrangements for the visit. Please see the Logistics section on this page.
 9. Execute the engagement.
 10. Evaluate the engagement: whether the engagent was a success or a failure, how could it have been better,
