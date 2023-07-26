@@ -56,7 +56,7 @@ CV and references available on request.
 
 - [Computer Science Faculty](https://cs.utdallas.edu/people/faculty/murthy-sean/), University of Texas at Dallas
 
-- [Computer Science Faculty](https://sites.wcsu.edu/murthys/), Western Connecticut State University
+- [Computer Science Faculty](https://sites.wcsu.edu/murthys/) (tenured), Western Connecticut State University
 
 - Chief Technology Officer and Platform Architect, Datalentis, LLC
 
