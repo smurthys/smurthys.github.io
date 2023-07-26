@@ -8,10 +8,10 @@ and project guidance.
 I am able to customize faculty development, curriculum development, strategic planning, and similar
 activities to specific departmental and institutional needs.
 
-I take all engagments--small and large--seriously. My goal is to improve the quality of education 
+I take all engagments—small and large—seriously. My goal is to improve the quality of education 
 and to add meaningful academic value. I am firmly committed to this cause and will collaborate
 with anyone similarly committed. To this end, I humbly welcome inquiries from people and institutions
-that share my vision and values on improving education so that together we can build a better society.
+that share my vision and values so that together we can build a better society.
 
 I respectfully ask potential hosts to **read this page carefully in its entirety prior to starting the
 engagement process** as it is designed to answer upfront as many questions as possible and to address
@@ -24,15 +24,15 @@ Much of this section is for institutions outside the USA. (The US structure is q
 
 I strongly recommend that the **head of the host department** (typically Computer Science or Information
 Science) or **someone in institutional leadership** be the sole contact person for all communication with
-me. Regardless, the contact person should be someone with the position and influence within the institution
-to coordinate, plan, and execute the engagement. They will also need sufficient knowledge of the academic
-portion of the engagement. For example, they should be familiar with academic schemes and syllabi if organizing
-a guest lecture to students.
+me. The contact person should have the position and influence within the institution to coordinate, plan,
+and execute the engagement. They will also need sufficient knowledge of the academic portion of the 
+engagement. For example, they should be familiar with academic catalog/scheme and syllabi if organizing
+a guest lecture or workshop.
 
-I recommend the engagement have **institutional support** because it adds "gravity" to the engagement 
-which in turn boosts audience participation (both students and faculty). While I am happy to engage any
-audience, appropriate organization and participation are factors in my own satisfaction from the engagement.
-They are also a way to recognize and reciprocate my effort.
+I recommend the engagement have **institutional support** because it adds "gravity" to the engagement, 
+which in turn boosts participation. While I am happy to engage any audience, appropriate organization,
+advertisement, and participation are key factors in my own satisfaction from the engagement. They are
+also a way to recognize and reciprocate my effort.
 
 I appreciate professional communication with the host, including them carefully reading my messages, 
 promptly replying to messages, and appraising me early of any issues with planning or executing the
@@ -46,57 +46,79 @@ having to pressure someone.
 **Typical engagement process:**
 
 1. An informal mail or call from a department head or a person in institutional leadership introducing
-   themselves, expressing interest, and inquiring availability. Alternatively, this interaction may take place
-   with an "event coordinator".
-2. A formal invitation to me by mail with a broad statement on the nature of engagement. 
-3. Exchange mails or calls with me to determine the exact nature of engagement. 
-4. Develop and share with me a plan and agenda for the engagement. Please note that the plan/agenda needs
-   to be specific about time windows for each activity and the purpose for each activity. I am unable to
-   work with agendas that simply have placeholders such as "guest lecture", "faculty meeting", etc.
-5. Advertise the engagement to appropriate audience: students, faculty, and administrators. A link to my
-   picture is in the Contact section.
-6. Make logistical arrangements.
-7. Execute the engagement.
-8. Evaluate the engagement: success or failure, how could it have been better, potential future engagements, and so on.
-   I send the host links to pre-event and post-event surveys as part of the evaluation. 
-   The host should promptly broadcast the survey to the target audience (both students
-   and faculty).
+   themselves, expressing interest, and inquiring availability. In some countries, this initial interaction
+   could take place with my "event coordinator".
+3. A formal invitation to me by mail with a broad statement on the nature of engagement.
+   Please specify target audience: students only, faculty only, administrators only, or a combination.
+4. Exchange mails or calls with me to determine the exact nature of engagement. It is quite common for the
+   final engagement to be (quite) different from the initial thought, and that is OK.
+5. Develop and share with me a plan and agenda for the engagement. Please note that the plan/agenda needs
+   to be specific about time windows for each activity and the purpose for each activity. **I am unable to
+   work with agendas with placeholders items** such as "guest lecture", "faculty meeting", etc.
+6. Advertise the engagement to appropriate audience: students, faculty, and administrators. **A link to my
+   picture is in the Contact section on this page**.
+7. Make logistical arrangements for the visit. Please see the Logistics section on this page.
+9. Execute the engagement.
+10. Evaluate the engagement: whether the engagent was a success or a failure, how could it have been better,
+    potential future engagements, and so on.
+
+I send the host links to pre-event and post-event surveys as part of the evaluation. The host should promptly
+broadcast the survey to the target audience and ensure that prospective/actual participants complete the survey
+in timely fashion.
 
 
 ### Logistics
 
-The host institution needs to arrange transportation to and from my homebase in the country. I 
-will not have the time or familiarity to arrange transportation on my own. The transportation 
-should be safe, clean, and reasonably efficient and comfortable because I like to arrive on
-campus without anxiety or perspiration. And, with respect, no "cheapest car for hire" or beat
-up vehicles please. Definitely no 2-wheelers.
+**Local transportation:** The host institution needs to arrange transportation to and from my homebase 
+in the country. I will not have the time or familiarity to arrange transportation on my own. The 
+transportation should be safe, clean, and reasonably efficient and comfortable because I like to 
+arrive on campus without anxiety or perspiration. And, respectfully, no "cheapest car for hire" please.
+Also, definitely no 2-wheelers. (Yes, sadly, those things have happened.)
 
-The host needs to arrange safe, clean, and reasonably comfortable lodging if the visit is
-longer than eight hours, involves consecutive days, or if the situation makes a same-day return
-to my homebase unsafe or impractical in some way.
+**Lodging:** The host needs to arrange safe, clean, and reasonably comfortable lodging if the visit 
+spans multiple days, or if the situation makes a same-day return to my homebase unsafe or impractical
+in some way.
 
-I will bring my own computer and phone, but will need Internet connection for both devices. If 
-I make a presentation (say a guest lecture), I will also need an external HDMI or USB-C monitor,
-optionally an external USB keyboard and mouse, and a clean whiteboard for impromptu use. I assume the 
-external monitor will also be shared to an overhead projector. 
+**Food:** I do **not** take any food or beverage during a day visit: not even coffee, tea, or milk. 
+I do not mind other people consuming food and beverage in my presence, but I ask not to be pressured 
+to partake. I will inform the host if my requirements change.
 
-(I need an external monitor to see my own presentation without craning my neck at the projector
-screen. I use my computer's screen to privately view my notes and scripts related to the presentation.)
+**I would like safe drinking water** during the visit. If it is not an inconvenience, I would also 
+appreciate some fresh-squeezed lemon juice (just the juice from one lemon with **nothing added**), some table salt
+separate from the lemon juice, a spoon, and a drinking cup. But, just plain water suffices if lemon juice, etc.
+is a problem.
 
-I cannot part with my computer, provide my computer's password, or allow others to use my computer
-without my supervision. I cannot install custom software or change security settings to complete
+**Internet:** I generally bring my own computer and phone, but I will need wireless Internet connection 
+for both devices throughout my stay.
+
+**Peripherals:** I will need the following peripherals if I make a presentation (which I almost always do):
+* An overhead projector connected to my computer using host-provided adaptor/dongle
+* An external monitor and an appropriate adaptor/dongle, mirroring the overhead projector
+* An external keyboard and a mouse
+* A clean whiteboard, markers in multiple colors, and an eraser (all for impromptu illustrations)
+
+Please strive to provide an external monitor that is mirrored to the overhead projector so that I can
+see my own presentation without craning my neck at the projector screen. I like to use my computer's 
+builtin screen to privately view my notes and scripts related to the presentation.
+
+**Ports:** My computer has one HDMI port and one free USB-C (Thunderbolt 3) port. Hosts often connect an
+external monitor to my computer's HDMI port and mirror the monitor to the overhead projector. (This is also
+a typical US classroom setup.)
+
+My computer has just one USB-A connector. So, a USB hub will almost certainly be required to connect
+both an external keyboard and a mouse.
+
+I **cannot** part with my computer, provide my computer's password, or allow others to use my computer
+without my supervision. I also cannot install custom software or change security settings to complete
 any part of the engagement. However, I am happy to arrive early to check that my computer plays well
 with the host environment.
 
-No audio or video recording of my presentations without my prior explicit approval. Obviously, people
-take pictures during presentation, but no pictures of slides and other material (projected or otherwise).
+**Recording:** No audio or video recording of any part of my engagement without my prior explicit 
+approval. Obviously, people do take pictures during presentation and generally throughout the engagement,
+but no pictures of slides and other material (projected or otherwise).
 
-I do **not** take any food or beverage during a day visit: not even coffee, tea, or milk. I do not
-mind other people consuming food and beverage in my presence, but I ask not to be pressured to partake.
-I will inform the host if my requirements change.
-
-**I would like safe drinking water** during the visit.
-
+I do like seeing pictures and videos taken during the engagement. So, please feel free to share them 
+(or links to them).
 
 ### Day visits
 
@@ -116,11 +138,12 @@ hosts plan an agenda that is worthy of everyone's time and effort.
 I generally do not expect [honorarium](https://en.wikipedia.org/wiki/Honorarium) for a day visit,
 but appreciate it and accept it as a token of respect. It is important to clarify that I entertain 
 day visits for intellectual satisfaction. I spend any honoraria I receive on engagement-related
-activities and to help deserving students. (Day visits are NOT a profit-making or résumé-enhancing
-exercise for me.)
+activities and to help deserving students.
 
-I do expect honorarium if I make multiple visits or if the engagement involves workshop, tutorial,
-faculty-specific activities, or any intensive activity. (Not a comprehensive list.)
+I do expect honorarium if I make multiple visits or a multiple-day visit, or if the engagement 
+involves workshop, tutorial, faculty-specific activities, or any "intensive activity".
+
+(Day visits are NOT a profit-making or résumé-enhancing exercise for me.)
 
 
 ### Topics
