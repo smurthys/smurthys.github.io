@@ -11,7 +11,7 @@ campus without anxiety or perspiration. And, respectfully, no "cheapest car for 
 **Lodging:** The host needs to arrange safe, clean, and reasonably comfortable lodging if the visit 
 is for more than a day, or if the situation makes same-day return to my homebase unsafe or impractical.
 
-**PS:** Multiple institutions in the same vicinity may pool/share transportation and lodging to achieve
+**PS:** Multiple institutions in the same vicinity could pool/share transportation and lodging to achieve
 economy, just as long as nothing falls through the cracks.
 
 **Food:** I do **not** take any food or beverage during a day visit: not even coffee, tea, or milk. 
