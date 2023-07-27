@@ -13,7 +13,7 @@ and to add meaningful academic value. I am firmly committed to this cause and wi
 with anyone similarly committed. To this end, I humbly welcome inquiries from people and institutions
 that share my vision and values so that together we can build a better society.
 
-I respectfully ask potential hosts to **carefully read this page and the pages linked below in their
+I respectfully ask potential hosts to **carefully read this page and all pages linked below in their
 entirety prior to starting the engagement process**. The pages are designed to answer upfront as
 many questions as possible and to address/avoid frequent issues.
 
