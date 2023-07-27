@@ -81,8 +81,8 @@ It would be both unfair and unreasonabe to expect I pay these expenses from my p
 
 It is important to also clarify that an honorarium is a token amount; not a large amount like
 a consulting fee. Any educator would reasonably expect the engaging instituition to be aware of
-the distinction, and would more importantly trust it is unnecessary to convince institutions of 
-the importance recognizing the value received and that honoraria are the accepted means of recognition.
+the distinction, and would more importantly trust it unnecessary to convince institutions
+of the importance of recognizing value and that honoraria are the accepted means of recognition.
 
 That said, I do not wish to let the issue of honorarium get in the way of a genuine engagement 
 that advances education. So, I recommend checking with me (instead of assuming) if an honorarium is 

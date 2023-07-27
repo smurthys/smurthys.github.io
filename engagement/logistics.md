@@ -48,8 +48,8 @@ any part of the engagement. However, I am happy to arrive early to check if my c
 with the host environment (and I will endeavor to convince it to play well).
 
 **Recording:** No audio or video recording of any part of the engagement without my prior explicit 
-approval. Obviously, people do take pictures during generally throughout the engagement, but no 
-pictures of slides and other material (projected or otherwise).
+approval. Obviously, people are free to take pictures of people and such throughout the engagement,
+but no pictures of slides and other material (projected or otherwise).
 
 I do like seeing pictures and videos taken during the engagement. So, please feel free to share them 
 (or links to them).
