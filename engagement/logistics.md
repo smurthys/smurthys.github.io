@@ -4,13 +4,15 @@
 
 **Transportation:** The host institution needs to arrange transportation to and from my homebase 
 in the country. I will not have the time or familiarity to arrange my own transportation. 
-
 Transportation should be safe, clean, and reasonably efficient and comfortable so that I arrive on 
 campus without anxiety or perspiration. And, respectfully, no "cheapest car for hire" or 2-wheelers.
 (Yes, sadly, such transportation has showed up.)
 
 **Lodging:** The host needs to arrange safe, clean, and reasonably comfortable lodging if the visit 
 is for more than a day, or if the situation makes same-day return to my homebase unsafe or impractical.
+
+**PS:** Multiple institutions in the same vicinity may pool/share transportation and lodging to achieve
+economy, just as long as nothing falls through the cracks.
 
 **Food:** I do **not** take any food or beverage during a day visit: not even coffee, tea, or milk. 
 I do not mind other people consuming food and beverage in my presence, but I ask not to be pressured 
