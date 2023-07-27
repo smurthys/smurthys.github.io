@@ -5,14 +5,16 @@
 **Transportation:** The host institution needs to arrange transportation to and from my homebase 
 in the country. I will not have the time or familiarity to arrange my own transportation. 
 Transportation should be safe, clean, and reasonably efficient and comfortable so that I arrive on 
-campus without anxiety or perspiration. And, respectfully, no "cheapest car for hire" or 2-wheelers.
-(Yes, sadly, such transportation has showed up.)
+campus without anxiety or perspiration. And, respectfully, no "cheapest car for hire" or 2-wheelers
+please. (Yes, sadly, such transportation has showed up.)
 
 **Lodging:** The host needs to arrange safe, clean, and reasonably comfortable lodging if the visit 
 is for more than a day, or if the situation makes same-day return to my homebase unsafe or impractical.
 
 **PS:** Multiple institutions in the same vicinity could pool/share transportation and lodging to achieve
-economy, just as long as nothing falls through the cracks.
+economy, as long as the institutions coordinate between themselves and ensure that nothing falls through
+the cracks. I am unable to coordinate the logistics and cannot fix issues on my own at the last minute. (I once had to find lodging on my own in a remote town with no hotels, plus no help or Internet 
+connection. I do not wish to experience that again.)
 
 **Food:** I do **not** take any food or beverage during a day visit: not even coffee, tea, or milk. 
 I do not mind other people consuming food and beverage in my presence, but I ask not to be pressured 
@@ -24,7 +26,7 @@ some table salt separate from the lemon juice, a spoon, and a drinking cup. But,
 suffices if lemon juice, etc. is a problem.
 
 **Internet:** I generally bring my own computer and phone, and I will need wireless Internet connection 
-for both devices throughout my stay.
+for both devices during the visit.
 
 **Peripherals:** I like the following peripherals if I make a presentation (which I almost always
 do on visits):
@@ -38,8 +40,8 @@ see my own presentation without craning my neck at the projector screen. I like 
 builtin screen to privately view my notes and scripts related to the presentation.
 
 **Ports:** My computer has one HDMI port and one free USB-C (Thunderbolt 3) port. Hosts often connect an
-external monitor to my computer's HDMI port and mirror the monitor to the overhead projector. (This is also
-a typical US classroom setup.)
+external monitor to my computer's HDMI port and mirror the monitor to the overhead projector. (This is
+also a typical US classroom setup.)
 
 My computer has just one USB-A connector. So, a USB hub will almost certainly be required to connect
 both an external keyboard and a mouse.
