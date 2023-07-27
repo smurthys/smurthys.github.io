@@ -68,7 +68,7 @@ hosts plan an agenda that is worthy of everyone's time and effort.
 
 ### Honorarium
 
-I do not expect [honorarium](https://en.wikipedia.org/wiki/Honorarium) for a typical day visit, 
+I do **NOT** expect [honorarium](https://en.wikipedia.org/wiki/Honorarium) for a typical day visit, 
 but accept it as the host's acknowledgement of value received. I do expect honorarium for multi-day
 visits, multiple visits, or if an engagement of any kind/duration involves workshop, tutorial,
 faculty-related activities, or any "intensive activity" in my assessment.
@@ -87,7 +87,8 @@ of the importance of recognizing value and that honoraria are the accepted means
 That said, I do not wish to let the issue of honorarium get in the way of a genuine engagement 
 that advances education. So, I recommend checking with me (instead of assuming) if an honorarium is 
 required or not for an engagement. The clearer we all are upfront about this topic, the better
-everyone's experience can be before, during, and after the engagement.
+everyone's experience can be before, during, and after the engagement. (Again, I do **NOT** expect 
+honorarium for a typical day visit.)
 
 Bottom line, I wish to work with like-minded people that are respectful of others and are genuinely
 interested in improving educational quality. I just do not want to feel used or taken advantage
@@ -95,6 +96,7 @@ of in the process. On this matter, I am forced to disengage from institutions/pe
 even though it makes me sad to lose the opportunity to interact with students and faculty.
 
 **PS:** This section is not about money, but about respect, recognition, and fairness.
+
 
 #### Engagement links
 
