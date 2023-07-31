@@ -11,10 +11,17 @@ please. (Yes, sadly, such transportation has showed up.)
 **Lodging:** The host needs to arrange safe, clean, and reasonably comfortable lodging if the visit 
 is for more than a day, or if the situation makes same-day return to my homebase unsafe or impractical.
 
-**PS:** Multiple institutions in the same vicinity could pool/share transportation and lodging to achieve
-economy, as long as the institutions coordinate between themselves and ensure that nothing falls through
-the cracks. I am unable to coordinate the logistics and cannot fix issues on my own at the last minute. (I once had to find lodging on my own in a remote town with no hotels, plus no help or Internet 
-connection. I do not wish to experience that again.)
+**PS:** At times I come across hosts who like me to visit but demur on making logistical 
+arrangements. I understand their decision but respectfully decline such engagements, because 
+frankly, me spending my own time and/or money to manage logistics would reek of desperation. 
+Plus, my priority is to add value during my visit; not worry about getting to and from venues.
+(What may be easy, obvious, or cheap to someone local is often not so for me, a visitor.)
+
+**PPS:** Multiple institutions in the same vicinity could pool/share transportation and lodging to
+achieve economy, as long as the institutions coordinate between themselves. I am unable to coordinate
+logistics and cannot fix issues on my own at the last minute if things fall through the cracks
+due to lack of communication between institutions. (I once had to find lodging on my own in a remote 
+town with no hotels, plus no help or Internet connection. I do not wish to experience that again.)
 
 **Food:** I do **not** take any food or beverage during a day visit: not even coffee, tea, or milk. 
 I do not mind other people consuming food and beverage in my presence, but I ask not to be pressured 
