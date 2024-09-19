@@ -23,8 +23,6 @@ CV and references available on request.
 
 - [Twitter](https://twitter.com/smurthys)
 
-- [LinkedIn](https://www.linkedin.com/in/seanmurthy/)
-
 - [GitHub](https://github.com/smurthys)
 
 
