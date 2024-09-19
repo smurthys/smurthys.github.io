@@ -1,6 +1,6 @@
 [Home](/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;\|&nbsp;&nbsp;[Publications](/pubs)&nbsp;&nbsp;\|&nbsp;&nbsp;[Engagement](/engagement/)
 
-I am a teacher, researcher, and technologist. I am open to inquiries about professional engagement.
+I am a teacher, researcher, and technologist. I am open to inquiries about professional engagement (industry and academic).
 CV and references available on request. 
 
 #### Affiliations
