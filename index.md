@@ -15,7 +15,7 @@ CV and references available on request.
 
 - Senior Member, Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org/))
 
-- (Scroll down for past affiliations)
+- (Scroll down for prior affiliations)
 
 
 #### Social
