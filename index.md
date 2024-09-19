@@ -9,7 +9,7 @@ CV and references available on request.
 
 - Director, Data Systems & Solutions Lab ([DASSL](https://dassl.github.io/))
 
-- Founder and Moderator, Special Interest Group on C++ (SIGCPP [Blog](https://sigcpp.github.io/) [Mastodon](https://hachyderm.io/@sigcpp))
+- Founder and Moderator, Special Interest Group on C++ ([SIGCPP](https://sigcpp.github.io/))
 
 - Senior Member, Association for Computing Machinery ([ACM](https://www.acm.org/))
 
