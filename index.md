@@ -9,7 +9,7 @@ CV and references available on request.
 
 - Director, Data Systems & Solutions Lab ([DASSL](https://dassl.github.io/))
 
-- Founder and Moderator, Special Interest Group on C++ (SIGCPP [Blog](https://sigcpp.github.io/) [Tweets](https://twitter.com/sigcpp))
+- Founder and Moderator, Special Interest Group on C++ (SIGCPP [Blog](https://sigcpp.github.io/) [Mastodon](https://hachyderm.io/@sigcpp))
 
 - Senior Member, Association for Computing Machinery ([ACM](https://www.acm.org/))
 
@@ -20,8 +20,6 @@ CV and references available on request.
 
 #### Social
 - [Mastodon](https://hachyderm.io/@smurthys)
-
-- [Twitter](https://twitter.com/smurthys)
 
 - [GitHub](https://github.com/smurthys)
 
