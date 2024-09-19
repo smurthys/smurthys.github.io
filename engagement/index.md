@@ -1,5 +1,8 @@
 [Home](/)&nbsp;&nbsp;\|&nbsp;&nbsp;[Biography](/bio)&nbsp;&nbsp;\|&nbsp;&nbsp;[Publications](/pubs)&nbsp;&nbsp;\|&nbsp;&nbsp;[Engagement](/engagement/)
 
+This page and the related linked pages are about **academic engagement**. Please contact me directly
+about industry engagement.
+
 I engage students, faculty, and administrators of schools, colleges, and universities worldwide.
 The engagement can be short term (like a day visit) or long term. It can be in the form of workshops,
 tutorials, guest lectures, open forums ("Ask me Anything"), consulting, one-on-one sessions, mentoring,
